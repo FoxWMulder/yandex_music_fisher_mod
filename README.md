@@ -13,7 +13,7 @@ Open tab: [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-
 * Качаем архив и распаковываем его куда вам удобно: [master.zip](https://github.com/vectorserver/yandex_music_fisher_mod/archive/master.zip)
 * Заходим в "Расширения" [opera://extensions/](opera://extensions/)
 * Включаем "Режим разработчика"
-* Нажимаем на "Загрузить распакованное расширение" и выбираем путь до паки **2.1.129**
+* Нажимаем на "Загрузить распакованное расширение" и выбираем путь до папки **2.2**
   
 **Видео инстркуция для наглядности:** [install.wmv](https://github.com/vectorserver/yandex_music_fisher_mod/raw/master/install.wmv)
 
